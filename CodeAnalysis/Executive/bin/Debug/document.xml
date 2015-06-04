@@ -1,0 +1,262 @@
+<CodeAnalyzer>
+  <TypeAnalysis>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\Analyzer.cs">
+      <ANALYSIS NameSpace="ParserCS" Type="namespace" TypeName="ParserCS" Begin="7" End="20" LOC="13" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Analyzer" Begin="9" End="18" LOC="9" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Analyzer" Begin="12" End="15" LOC="3" Complexity="1" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\IRuleAndActions.cs">
+      <ANALYSIS NameSpace="ParserCS" Type="namespace" TypeName="ParserCS" Begin="47" End="125" LOC="78" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="interface" TypeName="IAction" Begin="49" End="53" LOC="4" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="AAction" Begin="57" End="81" LOC="24" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="display" Begin="75" End="80" LOC="5" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="interface" TypeName="IRule" Begin="85" End="89" LOC="4" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="ARule" Begin="93" End="124" LOC="31" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="ARule" Begin="96" End="99" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="add" Begin="100" End="103" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doActions" Begin="105" End="109" LOC="4" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="indexOfType" Begin="110" End="123" LOC="13" Complexity="1" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\parsing.cs">
+      <ANALYSIS NameSpace="ParserCS" Type="namespace" TypeName="ParserCS" Begin="58" End="183" LOC="125" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Parser" Begin="60" End="95" LOC="35" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Parser" Begin="64" End="67" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="add" Begin="68" End="71" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="parse" Begin="72" End="83" LOC="11" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="relations" Begin="86" End="94" LOC="8" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="TestParser" Begin="96" End="183" LOC="87" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="ProcessCommandline" Begin="100" End="116" LOC="16" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="ShowCommandLine" Begin="118" End="127" LOC="9" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Main" Begin="134" End="180" LOC="46" Complexity="7" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\PremanentRepository.cs">
+      <ANALYSIS NameSpace="ParserCS" Type="namespace" TypeName="ParserCS" Begin="7" End="182" LOC="175" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="RepositoryPermanemt" Begin="9" End="66" LOC="57" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="copyElements" Begin="16" End="55" LOC="39" Complexity="6" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="returnPermanentRep" Begin="57" End="60" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Main" Begin="63" End="65" LOC="2" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Elements" Begin="67" End="76" LOC="9" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Relation" Begin="79" End="90" LOC="11" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="storeRel" Begin="92" End="105" LOC="13" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="addRelation" Begin="96" End="99" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="returnRelation" Begin="101" End="104" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Test" Begin="107" End="181" LOC="74" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Main" Begin="111" End="179" LOC="68" Complexity="3" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\RulesAndActions.cs">
+      <ANALYSIS NameSpace="ParserCS" Type="namespace" TypeName="ParserCS" Begin="68" End="1263" LOC="1195" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Elem" Begin="71" End="90" LOC="19" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="ToString" Begin="79" End="89" LOC="10" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Repository" Begin="93" End="144" LOC="51" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Repository" Begin="100" End="103" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="getInstance" Begin="105" End="108" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="PushStack" Begin="150" End="212" LOC="62" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="PushStack" Begin="154" End="157" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="158" End="211" LOC="53" Complexity="10" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="PopStack" Begin="216" End="269" LOC="53" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="PopStack" Begin="220" End="223" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="224" End="268" LOC="44" Complexity="9" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="SearchInherit" Begin="271" End="323" LOC="52" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="SearchInherit" Begin="276" End="280" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="281" End="322" LOC="41" Complexity="8" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="SearchAggregation" Begin="325" End="373" LOC="48" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="SearchAggregation" Begin="329" End="333" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="334" End="372" LOC="38" Complexity="7" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="SearchComposition" Begin="375" End="476" LOC="101" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="SearchComposition" Begin="379" End="383" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="384" End="399" LOC="15" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="addToRelation" Begin="402" End="436" LOC="34" Complexity="8" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="definedRelation" Begin="440" End="475" LOC="35" Complexity="8" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="SearchUsing" Begin="478" End="615" LOC="137" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="SearchUsing" Begin="482" End="486" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="487" End="512" LOC="25" Complexity="5" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="usingObjectFunction" Begin="516" End="563" LOC="47" Complexity="11" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="usingInFunction" Begin="566" End="614" LOC="48" Complexity="10" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="PrintFunction" Begin="620" End="640" LOC="20" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="PrintFunction" Begin="624" End="627" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="display" Begin="628" End="635" LOC="7" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="636" End="639" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Print" Begin="644" End="657" LOC="13" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Print" Begin="648" End="651" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="doAction" Begin="652" End="656" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectNamespace" Begin="661" End="677" LOC="16" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="663" End="676" LOC="13" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectClass" Begin="681" End="704" LOC="23" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="683" End="703" LOC="20" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectFunction" Begin="708" End="733" LOC="25" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="isSpecialToken" Begin="710" End="717" LOC="7" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="718" End="732" LOC="14" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectStruct" Begin="735" End="750" LOC="15" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="737" End="749" LOC="12" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectEnum" Begin="752" End="767" LOC="15" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="754" End="766" LOC="12" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectDelegates" Begin="769" End="797" LOC="28" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="771" End="796" LOC="25" Complexity="4" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectAnonymousScope" Begin="823" End="841" LOC="18" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="826" End="840" LOC="14" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectLeavingScope" Begin="845" End="857" LOC="12" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="847" End="856" LOC="9" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectBracelessScope" Begin="859" End="886" LOC="27" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="isSpecialToken" Begin="861" End="872" LOC="11" Complexity="4" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="873" End="885" LOC="12" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="BuildCodeAnalyzer" Begin="889" End="952" LOC="63" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="BuildCodeAnalyzer" Begin="893" End="897" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="build" Begin="903" End="951" LOC="48" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectInherit" Begin="955" End="982" LOC="27" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="957" End="981" LOC="24" Complexity="4" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="str" Begin="984" End="988" LOC="4" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectComposition" Begin="989" End="1077" LOC="88" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="993" End="1037" LOC="44" Complexity="10" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="constructStruct" Begin="1038" End="1054" LOC="16" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="constructLocal" Begin="1056" End="1076" LOC="20" Complexity="5" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectAggregate" Begin="1080" End="1125" LOC="45" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="1082" End="1124" LOC="42" Complexity="7" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="DetectUsing" Begin="1127" End="1218" LOC="91" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="isSpecialToken" Begin="1130" End="1137" LOC="7" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="test" Begin="1139" End="1184" LOC="45" Complexity="7" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="constructLocal" Begin="1186" End="1217" LOC="31" Complexity="7" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="RelationshipAnalyzer" Begin="1219" End="1263" LOC="44" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="RelationshipAnalyzer" Begin="1224" End="1229" LOC="5" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="build" Begin="1230" End="1262" LOC="32" Complexity="1" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\ScopeStack.cs">
+      <ANALYSIS NameSpace="ParserCS" Type="namespace" TypeName="ParserCS" Begin="53" End="209" LOC="156" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="ScopeStack" Begin="63" End="145" LOC="82" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="push" Begin="71" End="74" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="pop" Begin="77" End="91" LOC="14" Complexity="3" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="getList" Begin="95" End="98" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="clear" Begin="99" End="102" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="lastPopped" Begin="128" End="131" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="clearPopList" Begin="132" End="135" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="display" Begin="138" End="144" LOC="6" Complexity="2" />
+      <ANALYSIS NameSpace="ParserCS" Type="class" TypeName="Test1" Begin="147" End="208" LOC="61" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="struct" TypeName="Elem" Begin="149" End="170" LOC="21" Complexity="0" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="make" Begin="154" End="159" LOC="5" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="ToString" Begin="160" End="169" LOC="9" Complexity="1" />
+      <ANALYSIS NameSpace="ParserCS" Type="function" TypeName="Main" Begin="173" End="206" LOC="33" Complexity="1" />
+    </FILE>
+  </TypeAnalysis>
+  <RelationshipAnalysis>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\Analyzer.cs" />
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\IRuleAndActions.cs">
+      <RELATIONS NameSpace1="ParserCS" Type1="AAction" Relation="Inherit" NameSpace2="ParserCS" Type2="IAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="ARule" Relation="Inherit" NameSpace2="ParserCS" Type2="IRule" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\parsing.cs">
+      <RELATIONS NameSpace1="ParserCS" Type1="TestParser" Relation="Aggregate" NameSpace2="ParserCS" Type2="BuildCodeAnalyzer" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Parser" Relation="Using" NameSpace2="ParserCS" Type2="BuildCodeAnalyzer" />
+      <RELATIONS NameSpace1="ParserCS" Type1="TestParser" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\PremanentRepository.cs">
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RepositoryPermanemt" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RepositoryPermanemt" Relation="Aggregate" NameSpace2="ParserCS" Type2="Elements" />
+      <RELATIONS NameSpace1="ParserCS" Type1="ScopeStack" Relation="Using" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test" Relation="Aggregate" NameSpace2="ParserCS" Type2="Elements" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\RulesAndActions.cs">
+      <RELATIONS NameSpace1="ParserCS" Type1="Repository" Relation="Aggregate" NameSpace2="ParserCS" Type2="ScopeStack" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PushStack" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test1" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PushStack" Relation="Aggregate" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PushStack" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PopStack" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PopStack" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PopStack" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchInherit" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchInherit" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchInherit" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchInherit" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchInherit" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchAggregation" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchAggregation" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchAggregation" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchAggregation" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchComposition" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="SearchUsing" Relation="Aggregate" NameSpace2="ParserCS" Type2="Relation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="PrintFunction" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Print" Relation="Inherit" NameSpace2="ParserCS" Type2="AAction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectNamespace" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectClass" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectFunction" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectStruct" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectEnum" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectDelegates" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectAnonymousScope" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectLeavingScope" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectBracelessScope" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="Parser" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="PushStack" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectNamespace" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectClass" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectFunction" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectStruct" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectEnum" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectDelegates" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectAnonymousScope" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="PopStack" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectBracelessScope" />
+      <RELATIONS NameSpace1="ParserCS" Type1="BuildCodeAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectLeavingScope" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectInherit" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectComposition" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectComposition" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectComposition" Relation="Aggregate" NameSpace2="ParserCS" Type2="str" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectAggregate" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectAggregate" Relation="Aggregate" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="" Type1="List" Relation="Using" NameSpace2="ParserCS" Type2="RepositoryPermanemt" />
+      <RELATIONS NameSpace1="ParserCS" Type1="DetectUsing" Relation="Inherit" NameSpace2="ParserCS" Type2="ARule" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="Repository" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="Parser" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="SearchInherit" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="SearchComposition" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="SearchAggregation" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="SearchUsing" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectInherit" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectComposition" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectAggregate" />
+      <RELATIONS NameSpace1="ParserCS" Type1="RelationshipAnalyzer" Relation="Aggregate" NameSpace2="ParserCS" Type2="DetectUsing" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\SelfProject2\Pr2PracticeCode\ParserCS\ScopeStack.cs">
+      <RELATIONS NameSpace1="" Type1="" Relation="Using" NameSpace2="ParserCS" Type2="PushStack" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test1" Relation="Has Defined" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test1" Relation="Aggregate" NameSpace2="ParserCS" Type2="ScopeStack" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test1" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="ParserCS" Type1="Test1" Relation="Composing" NameSpace2="ParserCS" Type2="Elem" />
+      <RELATIONS NameSpace1="" Type1="&#xA;" Relation="Using" NameSpace2="ParserCS" Type2="ScopeStack" />
+      <RELATIONS NameSpace1="" Type1="&#xA;" Relation="Using" NameSpace2="ParserCS" Type2="ScopeStack" />
+      <RELATIONS NameSpace1="" Type1="e" Relation="Using" NameSpace2="ParserCS" Type2="ScopeStack" />
+    </FILE>
+  </RelationshipAnalysis>
+</CodeAnalyzer>

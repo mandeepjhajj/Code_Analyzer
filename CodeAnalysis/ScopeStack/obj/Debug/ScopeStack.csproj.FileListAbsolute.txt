@@ -1,0 +1,5 @@
+C:\Users\Mandeep\documents\visual studio 2013\Projects\SelfProject2\Pr2PracticeCode\ScopeStack\bin\Debug\ScopeStack.exe.config
+C:\Users\Mandeep\documents\visual studio 2013\Projects\SelfProject2\Pr2PracticeCode\ScopeStack\bin\Debug\ScopeStack.exe
+C:\Users\Mandeep\documents\visual studio 2013\Projects\SelfProject2\Pr2PracticeCode\ScopeStack\bin\Debug\ScopeStack.pdb
+C:\Users\Mandeep\documents\visual studio 2013\Projects\SelfProject2\Pr2PracticeCode\ScopeStack\obj\Debug\ScopeStack.exe
+C:\Users\Mandeep\documents\visual studio 2013\Projects\SelfProject2\Pr2PracticeCode\ScopeStack\obj\Debug\ScopeStack.pdb

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CodeAnalyzer>
+  <TypeAnalysis>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\Code_Analyzer\TestCase\TestCase.cs">
+      <ANALYSIS NameSpace="Test" Type="namespace" TypeName="Test" Begin="3" End="48" LOC="45" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="class" TypeName="ClassA" Begin="5" End="11" LOC="6" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="function" TypeName="function1" Begin="7" End="10" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="Test" Type="class" TypeName="ClassB" Begin="13" End="27" LOC="14" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="struct" TypeName="CoOrds" Begin="15" End="24" LOC="9" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="function" TypeName="function2" Begin="19" End="23" LOC="4" Complexity="1" />
+      <ANALYSIS NameSpace="Test" Type="class" TypeName="ClassC" Begin="29" End="35" LOC="6" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="function" TypeName="function3" Begin="31" End="34" LOC="3" Complexity="1" />
+      <ANALYSIS NameSpace="Test" Type="class" TypeName="ClassD" Begin="37" End="47" LOC="10" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="function" TypeName="main" Begin="40" End="45" LOC="5" Complexity="3" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\Code_Analyzer\TestCase\TestCase2.cs">
+      <ANALYSIS NameSpace="Test" Type="namespace" TypeName="Test" Begin="3" End="20" LOC="17" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="class" TypeName="EnumTest" Begin="5" End="19" LOC="14" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="enum" TypeName="Days" Begin="6" End="7" LOC="1" Complexity="0" />
+      <ANALYSIS NameSpace="Test" Type="function" TypeName="Main" Begin="9" End="15" LOC="6" Complexity="1" />
+      <ANALYSIS NameSpace="Test" Type="delegate" TypeName="ProgressReporter" Begin="16" End="16" LOC="0" Complexity="0" />
+      <ANALYSIS NameSpace="Test1" Type="namespace" TypeName="Test1" Begin="22" End="28" LOC="6" Complexity="0" />
+      <ANALYSIS NameSpace="Test1" Type="class" TypeName="A" Begin="24" End="28" LOC="4" Complexity="0" />
+    </FILE>
+  </TypeAnalysis>
+  <RelationshipAnalysis>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\Code_Analyzer\TestCase\TestCase.cs">
+      <RELATIONS NameSpace1="Test" Type1="ClassB" Relation="Inherit" NameSpace2="Test" Type2="ClassA" />
+      <RELATIONS NameSpace1="Test" Type1="ClassB" Relation="Has Defined" NameSpace2="Test" Type2="CoOrds" />
+      <RELATIONS NameSpace1="Test" Type1="ClassB" Relation="Composing" NameSpace2="Test" Type2="CoOrds" />
+      <RELATIONS NameSpace1="Test" Type1="ClassC" Relation="Aggregate" NameSpace2="Test" Type2="ClassA" />
+      <RELATIONS NameSpace1="Test" Type1="ClassD" Relation="Using" NameSpace2="Test" Type2="ClassA" />
+      <RELATIONS NameSpace1="Test" Type1="ClassD" Relation="Using" NameSpace2="Test" Type2="ClassB" />
+    </FILE>
+    <FILE Name="C:\Users\Mandeep\Documents\Visual Studio 2013\Projects\Code_Analyzer\TestCase\TestCase2.cs">
+      <RELATIONS NameSpace1="Test" Type1="EnumTest" Relation="Has Defined" NameSpace2="Test" Type2="Days" />
+      <RELATIONS NameSpace1="Test" Type1="EnumTest" Relation="Composing" NameSpace2="Test" Type2="Days" />
+      <RELATIONS NameSpace1="Test1" Type1="A" Relation="Aggregate" NameSpace2="Test" Type2="EnumTest" />
+    </FILE>
+  </RelationshipAnalysis>
+</CodeAnalyzer>
